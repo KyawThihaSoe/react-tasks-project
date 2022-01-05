@@ -1,0 +1,14 @@
+.button__container {
+    text-align: center;
+}
+
+.button__container button {
+    background-color: rgba(0, 0, 255, 0.712);
+    padding: 1rem;
+    border-radius: 1rem;
+    outline: none;
+    border: none;
+    margin: 2rem;
+    cursor: pointer;
+    color: #fff;
+}

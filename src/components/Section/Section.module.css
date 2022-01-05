@@ -1,0 +1,16 @@
+section h3 {
+    color: rgba(0, 0, 0, 0.705);
+    margin-left: 1rem;
+}
+
+section .box__container {
+    background-color: #fff;
+    box-shadow: .1rem .2rem .5rem 0rem rgb(0,0,0,0.3);
+    margin-top: 1rem;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    border-radius: 2rem;
+}
+
